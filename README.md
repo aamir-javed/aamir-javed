@@ -47,8 +47,21 @@ Highly accomplished Mobile App Developer with 4+ years of specialized experience
 ● **Sendoff:** Funeral service and management mobile application.
 
 ---
-
 ### 📫 Connect with Me
 ● **LinkedIn:** (https://www.linkedin.com/in/aamir-j/)
 ● **Email:** aamirjaved192@gmail.com
 ● **Location:** Abbottabad, Pakistan
+
+---
+### 🛠 Languages & Tools
+
+### 🛠 Tech Stack & Tools
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bloc-54a5f2?style=for-the-badge&logo=bloc&logoColor=white" /> <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=riverpod&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-800080?style=for-the-badge&logo=getx&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+---
+
+### 📈 GitHub Activities
+
+| Stats | Most Used Languages |
+| <img src="https://github-readme-stats.vercel.app/api?username=aamir-javed&show_icons=true&theme=tokyonight" height="150px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150px" /> |
