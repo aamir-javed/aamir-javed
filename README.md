@@ -2,7 +2,7 @@
 
 ## Senior Flutter Developer | Clean Architecture & Mobile Specialist
 
-[cite_start]Highly accomplished Mobile App Developer with 4+ years of specialized experience in Flutter[cite: 3]. [cite_start]Adept at executing the complete app development lifecycle from concept to deployment on Google Play and Apple App Stores[cite: 3].
+Highly accomplished Mobile App Developer with 4+ years of specialized experience in Flutter.Adept at executing the complete app development lifecycle from concept to deployment on Google Play and Apple App Stores.
 
 ---
 
