@@ -8,31 +8,30 @@ Highly accomplished Mobile App Developer with 4+ years of specialized experience
 
 ### 🛠 Technical Expertise
 
-[cite_start]● **Languages & Frameworks:** Flutter, Dart, Node.js, MongoDB[cite: 29].
-[cite_start]● **Architecture:** Clean Architecture, SOLID principles, MVVM, MVC[cite: 4, 29].
-[cite_start]● **State Management:** Bloc, Riverpod, Provider, GetX[cite: 4, 29].
-[cite_start]● **Tools & Deployment:** Firebase, REST APIs, CI/CD, Google Maps, App Store/Play Store Deployment[cite: 29].
+● **Languages & Frameworks:** Flutter, Dart.
+● **Architecture:** Clean Architecture, SOLID principles, MVVM, MVC
+● **State Management:** Bloc, Riverpod, Provider, GetX.
+● **Tools & Deployment:** Firebase, REST APIs, CI/CD, Google Maps, App Store/Play Store Deployment.
 
 ---
 
 ### 📈 Professional Impact
 
-[cite_start]● **Performance Optimization:** Built an optimized, reusable codebase that reduced app size and increased performance by up to 20%[cite: 14].
-[cite_start]● **User Experience:** Provided insights and UI/UX research leading to a 30% improvement in application usability and a 25% enhancement in user experience[cite: 18, 20].
-[cite_start]● **Domain Experience:** Successfully delivered solutions for Ecommerce (Single and Multi-Vendor), Edtech, Management, and Healthcare sectors[cite: 5].
-[cite_start]● **Global Collaboration:** Effective communicator with experience working in Agile/Scrum environments for international clients in Australia and Dubai.
+● **Performance Optimization:** Built an optimized, reusable codebase that reduced app size and increased performance by up to 20%.
+● **User Experience:** Provided insights and UI/UX research leading to a 30% improvement in application usability and a 25% enhancement in user experience.
+● **Domain Experience:** Successfully delivered solutions for Ecommerce (Single and Multi-Vendor), Edtech, Management, and Healthcare sectors.
+● **Global Collaboration:** Effective communicator with experience working in Agile/Scrum environments for international clients in Australia and Dubai.
 
 ---
 
 ### 💼 Selected Experience
 
-**Senior Flutter Developer (Freelance)** | [cite_start]*Oct 2021 – Present* [cite: 7, 8]
-[cite_start]● Managing the entire development process from concept to final product for international clients[cite: 10].
+**Senior Flutter Developer (Freelance)** | Upwork *Oct 2021 – Present* 
+● Managing the entire development process from concept to final product for international clients.
 
-**Flutter Developer** | [cite_start]*Spider Technology (Australia)* [cite: 13]
-[cite_start]● Collaborated with cross-functional teams to build high-performance codebases and integrate secure backend communication via REST APIs[cite: 13, 15].
-
-**Flutter Developer** | [cite_start]*Santra (UAE)* [cite: 16]
+**Flutter Developer** | *Spider Technology (Australia)* 
+● Collaborated with cross-functional teams to build high-performance codebases and integrate secure backend communication via REST APIs.
+**Flutter Developer** | *Santra (UAE)* 
 [cite_start]● Led UI/UX research and internal testing on TestFlight to ensure seamless deployment to app stores[cite: 18, 19].
 
 ---
