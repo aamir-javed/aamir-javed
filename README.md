@@ -17,26 +17,39 @@ Highly accomplished Mobile App Developer with 4+ years of specialized experience
 
 ### 💼 Recent Accomplishments
 
-**Senior Flutter Developer (Freelance)** | Upwork *Oct 2021 – Present* 
-✅ Successfully **developed** and **deployed** **10+ cross-platform** applications for international clients across **5+ countries**, driving all phases from concept definition to **Google Play** and **Apple App Store** deployment.  
-✅ Streamlined client requirement gathering, resulting in **30% faster** alignment on project scope and a **95% reduction** in post-scoping revisions.  
-✅ **Delivered** responsive UI/UX using techniques that guaranteed a consistent **98%** user satisfaction rating across initial client and internal reviews.
+**Senior Flutter Developer (Freelance) | Upwork *Oct 2021 – Present***
 
-**Flutter Developer (Part Time)** | Stealth AI Startup (USA) *Aug 2024 – Dec 2024* 
-✅ **Built** a seamless cross-platform experience using **Flutter** that transforms raw **speech** into actionable **text**. By implementing **Clean Architecture**, I ensured the app remains scalable and ready for future **AI model** updates without rewriting core logic.  
-✅ **Leveraged** efficient **state management** (Bloc) to handle heavy **AI data** processing without draining device battery or slowing down the UI. My focus on optimization helped keep the app responsive and **reduced** the overall package size by **20%**, making it easier for **users** to **download** and use on the go.
+✅ Successfully **developed** and **deployed** **10+ cross-platform** applications for international clients across **5+ countries**, driving all phases from concept definition to **Google Play** and **Apple App Store** deployment. <br>
+✅ Streamlined client requirement gathering, resulting in **30% faster** alignment on project scope and a **95% reduction** in post-scoping revisions. <br>
+✅ **Delivered** responsive UI/UX using techniques that guaranteed a consistent **98%** user satisfaction rating across initial client and internal reviews. 
 
-**Flutter Developer (Part Time)** | *Spider Technology (Australia) Jul 2023 – Oct 2023* 
-✅ **Led optimization** initiatives that reduced the final **app size** by **20%** and improved core application load **speed** by 15% for a user base.  
-✅ **Delivered 5** major features on time across **3 Agile sprints** by efficiently collaborating with cross-functional teams, ensuring high-quality releases.  
-✅ **Integrated** third-party services (**Google Maps**) to unlock new features and improve key business functions.
+---
 
-**Flutter Developer** | *Santra (UAE) Oct 2022 – Mar 2023* 
-✅ **Drove** significant product enhancement by conducting UX research, resulting in a **25% increase** in user retention and a measured **30% improvement** in application usability.  
-✅ **Managed** the deployment pipeline, overseeing feature testing on **TestFlight** for a dedicated group of **12 internal QA** users prior to production release.
+**Flutter Developer (Part Time) | Stealth AI Startup (USA) *Aug 2024 – Dec 2024*** 
 
-**Flutter Developer** | *Kawiish (Abbottabad) Oct 2022 – Mar 2023*
-✅ **Reduced** critical bug reports by **10%** within the first quarter by implementing robust troubleshooting and debugging protocols on a **high-traffic** production application.  
+✅ **Built** a seamless cross-platform experience using **Flutter** that transforms raw **speech** into actionable **text**. By implementing **Clean Architecture**, I ensured the app remains scalable and ready for future **AI model** updates without rewriting core logic. <br>
+✅ **Leveraged** efficient **state management** (Bloc) to handle heavy **AI data** processing without draining device battery or slowing down the UI. My focus on optimization helped keep the app responsive and **reduced** the overall package size by **20%**, making it easier for **users** to **download** and use on the go. 
+
+---
+
+**Flutter Developer (Part Time) | *Spider Technology (Australia) Jul 2023 – Oct 2023***
+
+✅ **Led optimization** initiatives that reduced the final **app size** by **20%** and improved core application load **speed** by 15% for a user base. <br>
+✅ **Delivered 5** major features on time across **3 Agile sprints** by efficiently collaborating with cross-functional teams, ensuring high-quality releases. <br>
+✅ **Integrated** third-party services (**Google Maps**) to unlock new features and improve key business functions.  
+
+---
+
+**Flutter Developer | *Santra (UAE) Oct 2022 – Mar 2023***
+
+✅ **Drove** significant product enhancement by conducting UX research, resulting in a **25% increase** in user retention and a measured **30% improvement** in application usability. <br>
+✅ **Managed** the deployment pipeline, overseeing feature testing on **TestFlight** for a dedicated group of **12 internal QA** users prior to production release.  
+
+---
+
+**Flutter Developer | *Kawiish (Abbottabad) Oct 2022 – Mar 2023***
+
+✅ **Reduced** critical bug reports by **10%** within the first quarter by implementing robust troubleshooting and debugging protocols on a **high-traffic** production application. <br>
 ✅ **Developed 20+** responsive and adaptive user interfaces following the **MVVM architectural pattern**, ensuring high scalability and maintainability for complex features.
 
 ---
