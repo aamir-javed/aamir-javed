@@ -71,3 +71,10 @@ Highly accomplished Mobile App Developer with 4+ years of specialized experience
 🔗 **LinkedIn:** [linkedin.com/in/aamir-j/](https://www.linkedin.com/in/aamir-j/)  
 📧 **Email:** aamirjaved192@gmail.com  
 📍 **Location:** Abbottabad, Pakistan
+
+
+### 📈 GitHub Activities
+
+| Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=aamir-javed&show_icons=true&theme=tokyonight" height="150px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-javed&layout=compact&theme=tokyonight" height="150px" /> |
